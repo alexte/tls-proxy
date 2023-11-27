@@ -13,9 +13,9 @@ as long as your python3 libraries let you connetct to ths HTTPS ciphers used by 
 
 Usage:
 
-'''
+```
    python3 tls-proxy.ph -p 9999 -d target.server:443
+```
 
-   then open your browser and conenct to this server :9999
-'''
+then open your browser and conenct to this server :9999
 
